@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000001_enable_pgvector.down.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000001_enable_pgvector.up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000002_create_users_table.down.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000002_create_users_table.up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000006_add_item_image.down.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000006_add_item_image.up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000009_add_item_category_text.down.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000009_add_item_category_text.up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000010_drop_item_category_id.down.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000010_drop_item_category_id.up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000011_add_exchange_offer_wanted_category.down.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000011_add_exchange_offer_wanted_category.up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000012_drop_exchange_offer_wanted_category_id.down.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000012_drop_exchange_offer_wanted_category_id.up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000013_add_living_offer_unique.down.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/abukar-all-work-snapshot/backend/migrations/000013_add_living_offer_unique.up.sql" dialect="GenericSQL" />
+  </component>
+</project>
